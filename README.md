@@ -1,6 +1,7 @@
 ## このリポジトリ  
 * [AtCoder版蟻本](https://qiita.com/drken/items/e77685614f3c6bf86f44)をPythonで解く
 * 解いた問題、コードの管理用リポジトリ  
+* 参考書籍: [プログラミングコンテストチャレンジブック](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
 
 ## 初級編  
 ### 2-1 すべての基本 "全探索"  
@@ -11,6 +12,7 @@
 
 ### 猪突猛進! "貪欲法"  
 2-2-3 Best Cow Line  
+2-2-4 Saruman's Army  
 
 ### 値を覚えて再利用 "動的計画法"  
 2-3-1 ナップサック問題  
@@ -33,3 +35,7 @@
 
 ### 厳選! 頻出テクニック  
 3-2-1 Subsequence  
+3-2-3 Face The Right Way  
+
+### 平面・空間を扱う"計算幾何"  
+3-6-1 Jack Straws  
