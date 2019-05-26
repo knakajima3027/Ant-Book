@@ -4,6 +4,7 @@
 * 参考書籍: [プログラミングコンテストチャレンジブック](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
 
 # 解いた問題  
+
 ## 初級編  
 ### 2-1 すべての基本 "全探索"  
 1-6-1 三角形  
@@ -44,3 +45,6 @@
 
 ### 平面・空間を扱う"計算幾何"  
 3-6-1 Jack Straws  
+
+## 上級編  
+4-2-2 A Funny Game  
