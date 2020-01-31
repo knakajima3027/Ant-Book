@@ -7,25 +7,25 @@
 # 初級編  
 ## 2-1 すべての基本 "全探索"  
 ### 1-6-1 三角形  
-* [ARC 004 A 2転換距離の最大値](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/1-6-1_三角形/ARC004_A.py)
-* [ABC 051 B Sum of Three Integers](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/1-6-1_三角形/ABC051_B.py)
-* [ABC 085 C Otoshidama](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/1-6-1_三角形/ABC085_C.py)  
+* [ARC 004 A 2転換距離の最大値](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/1-6-1_%E4%B8%89%E8%A7%92%E5%BD%A2/ARC004_A.py)
+* [ABC 051 B Sum of Three Integers](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/1-6-1_%E4%B8%89%E8%A7%92%E5%BD%A2/ABC051_B.py)
+* [ABC 085 C Otoshidama](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/1-6-1_%E4%B8%89%E8%A7%92%E5%BD%A2/ABC085_C.py)  
 
 ### 2-1-1 部分和問題  
-* [ABC 045 C - たくさんの数式](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-1_部分和問題/ABC045_C.py)
-* [ABC 079 C - Train Ticket](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-1_部分和問題/ABC079_C.py)  
-* [ABC 104 C - All Green](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-1_部分和問題/ABC104_C.py)
-* [ARC 029 A - 高橋君とお肉](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-1_部分和問題/ARC029_A.py)
-* [ABC 002 D - 派閥](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-1_部分和問題/ABC002_D.py)
+* [ABC 045 C - たくさんの数式](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-1_%E9%83%A8%E5%88%86%E5%92%8C%E5%95%8F%E9%A1%8C/ABC045_C.py)
+* [ABC 079 C - Train Ticket](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-1_%E9%83%A8%E5%88%86%E5%92%8C%E5%95%8F%E9%A1%8C/ABC079_C.py)  
+* [ABC 104 C - All Green](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-1_%E9%83%A8%E5%88%86%E5%92%8C%E5%95%8F%E9%A1%8C/ABC104_C.py)
+* [ARC 029 A - 高橋君とお肉](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-1_%E9%83%A8%E5%88%86%E5%92%8C%E5%95%8F%E9%A1%8C/ARC029_A.py)
+* [ABC 002 D - 派閥](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-1_%E9%83%A8%E5%88%86%E5%92%8C%E5%95%8F%E9%A1%8C/ABC002_D.py)
 
 ### 2-1-2 LakeCounting  
-* [ATC 001 A 深さ優先探索](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-2_LakeCounting/ATC001_A.py)
-* [ARC 031 B 埋め立て](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-2_LakeCounting/ARC031_B.py)
+* [ATC 001 A 深さ優先探索](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-2_LakeCounting/ATC001_A.py)
+* [ARC 031 B 埋め立て](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-2_LakeCounting/ARC031_B.py)
 * ARC 037 B バウムテスト
-* [AOJ 1160 島はいくつある？](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-2_LakeCounting/AOJ_1160.py)
+* [AOJ 1160 島はいくつある？](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-2_LakeCounting/AOJ_1160.py)
 
 ### 2-1-3 迷路の最短経路  
-* [ABC 007 C 幅優先探索](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-3_迷路の最短経路/ABC007_C.py)
+* [ABC 007 C 幅優先探索](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-3_%E8%BF%B7%E8%B7%AF%E3%81%AE%E6%9C%80%E7%9F%AD%E7%B5%8C%E8%B7%AF/ABC007_C.py)
 * JOI 2010 予選 E チーズ
 * ABC 088 D Grid Repainting
 * AGC 033 A - Darker and Darker
@@ -33,8 +33,8 @@
 * AOJ 0503 Cup
 
 ### 2-1-4 特殊な状態の列挙  
-* [ABC 054 C One-stroke Path](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-4_特殊な状態の列挙/ABC054_C.py)
-* [JOI 2009 予選 D カード並べ](https://github.com/knakajima3027/Ant-Book/blob/master/初級編/2-1-4_特殊な状態の列挙/JOI2009_D.py)
+* [ABC 054 C One-stroke Path](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-4_%E7%89%B9%E6%AE%8A%E3%81%AA%E7%8A%B6%E6%85%8B%E3%81%AE%E5%88%97%E6%8C%99/ABC054_C.py)
+* [JOI 2009 予選 D カード並べ](https://github.com/knakajima3027/Ant-Book/blob/master/beginner/2-1-4_%E7%89%B9%E6%AE%8A%E3%81%AA%E7%8A%B6%E6%85%8B%E3%81%AE%E5%88%97%E6%8C%99/JOI2009_D.py)
 * yukicoder No.133 カードゲーム
 
 ## 猪突猛進! "貪欲法"  
